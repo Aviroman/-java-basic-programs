@@ -1,2 +1,2 @@
-# -java-basic-programs
+# -basic-programs
 java basic codes
